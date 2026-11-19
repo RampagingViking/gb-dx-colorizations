@@ -2,6 +2,8 @@
 
 This project brings full color to classic Game Boy games on the Game Boy Color. Each DX colorization is distributed as an IPS patch. The patched games retain their original appearance on the original Game Boy and Super Game Boy.
 
+These colorization patches were made possible by Claude AI.
+
 ## Latest patches
 
 | Game | Version | IPS patch |
