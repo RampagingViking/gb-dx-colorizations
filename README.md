@@ -9,7 +9,7 @@ These colorization patches were made possible by AI.
 | Game | Version | IPS patch |
 | --- | --- | --- |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | v30 | [tmntdx_v30.ips](patches/tmntdx_v30.ips) |
-| Teenage Mutant Ninja Turtles II: Back from the Sewers | v12 | [tmnt2dx_v12.ips](patches/tmnt2dx_v12.ips) |
+| Teenage Mutant Ninja Turtles II: Back from the Sewers | v15 | [tmnt2dx_v15.ips](patches/tmnt2dx_v15.ips) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | v6 | [tmnt3dx_v6.ips](patches/tmnt3dx_v6.ips) |
 | Mighty Morphin Power Rangers | v5 | [mmprdx_v5.ips](patches/mmprdx_v5.ips) |
 
@@ -25,11 +25,11 @@ These colorization patches were made possible by AI.
 
 ### TMNT II: Back from the Sewers
 
-<img src="screenshots/back-from-the-sewers/1-title.png" alt="TMNT II: Back from the Sewers DX — Title" width="160">
-<img src="screenshots/back-from-the-sewers/2-highway.png" alt="TMNT II: Back from the Sewers DX — Highway" width="160">
-<img src="screenshots/back-from-the-sewers/3-building.png" alt="TMNT II: Back from the Sewers DX — Building" width="160">
-<img src="screenshots/back-from-the-sewers/4-bunker.png" alt="TMNT II: Back from the Sewers DX — Bunker" width="160">
-<img src="screenshots/back-from-the-sewers/5-fortress.png" alt="TMNT II: Back from the Sewers DX — Fortress" width="160">
+<img src="screenshots/back-from-the-sewers/1-stage-5-raphael.png" alt="TMNT II: Back from the Sewers DX — Raphael in Stage 5" width="160">
+<img src="screenshots/back-from-the-sewers/2-stage-3-donatello.png" alt="TMNT II: Back from the Sewers DX — Donatello in Stage 3" width="160">
+<img src="screenshots/back-from-the-sewers/3-stage-6-leonardo.png" alt="TMNT II: Back from the Sewers DX — Leonardo in Stage 6" width="160">
+<img src="screenshots/back-from-the-sewers/4-stage-1-michelangelo.png" alt="TMNT II: Back from the Sewers DX — Michelangelo in Stage 1" width="160">
+<img src="screenshots/back-from-the-sewers/5-stage-2-raphael.png" alt="TMNT II: Back from the Sewers DX — Raphael in Stage 2" width="160">
 
 ### TMNT III: Radical Rescue
 
