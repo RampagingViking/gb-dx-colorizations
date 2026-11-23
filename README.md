@@ -10,7 +10,7 @@ These colorization patches were made possible by AI.
 | --- | --- | --- |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | v30 | [tmntdx_v30.ips](patches/tmntdx_v30.ips) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | v15 | [tmnt2dx_v15.ips](patches/tmnt2dx_v15.ips) |
-| Teenage Mutant Ninja Turtles III: Radical Rescue | v6 | [tmnt3dx_v6.ips](patches/tmnt3dx_v6.ips) |
+| Teenage Mutant Ninja Turtles III: Radical Rescue | v9 | [tmnt3dx_v9.ips](patches/tmnt3dx_v9.ips) |
 | Mighty Morphin Power Rangers | v5 | [mmprdx_v5.ips](patches/mmprdx_v5.ips) |
 | Street Fighter II | v13 | [sf2dx_v13.ips](patches/sf2dx_v13.ips) |
 
@@ -36,11 +36,11 @@ Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Vers
 
 ### TMNT III: Radical Rescue
 
-<img src="screenshots/radical-rescue/1-title.png" alt="TMNT III: Radical Rescue DX — Title" width="160">
-<img src="screenshots/radical-rescue/2-forest.png" alt="TMNT III: Radical Rescue DX — Forest" width="160">
-<img src="screenshots/radical-rescue/3-ice-cave.png" alt="TMNT III: Radical Rescue DX — Ice Cave" width="160">
-<img src="screenshots/radical-rescue/4-factory.png" alt="TMNT III: Radical Rescue DX — Factory" width="160">
-<img src="screenshots/radical-rescue/5-boss.png" alt="TMNT III: Radical Rescue DX — Boss" width="160">
+<img src="screenshots/radical-rescue/1-michelangelo.png" alt="TMNT III: Radical Rescue DX — Michelangelo" width="160">
+<img src="screenshots/radical-rescue/2-donatello.png" alt="TMNT III: Radical Rescue DX — Donatello" width="160">
+<img src="screenshots/radical-rescue/3-raphael.png" alt="TMNT III: Radical Rescue DX — Raphael" width="160">
+<img src="screenshots/radical-rescue/4-leonardo.png" alt="TMNT III: Radical Rescue DX — Leonardo" width="160">
+<img src="screenshots/radical-rescue/5-raphael.png" alt="TMNT III: Radical Rescue DX — Raphael" width="160">
 
 ### Mighty Morphin Power Rangers
 
