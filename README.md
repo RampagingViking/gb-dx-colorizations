@@ -56,7 +56,7 @@ Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Vers
 <img src="screenshots/street-fighter-ii/2-ken-harbor.png" alt="Street Fighter II DX gameplay on Ken’s harbor" width="160">
 <img src="screenshots/street-fighter-ii/3-zangief-factory.png" alt="Street Fighter II DX gameplay on Zangief’s factory" width="160">
 <img src="screenshots/street-fighter-ii/4-balrog-casino.png" alt="Street Fighter II DX gameplay on Balrog’s casino" width="160">
-<img src="screenshots/street-fighter-ii/5-m-bison-temple.png" alt="Street Fighter II DX gameplay on M. Bison’s temple" width="160">
+<img src="screenshots/street-fighter-ii/5-dx-title.png" alt="Street Fighter II DX title screen with the DX badge" width="160">
 
 ## How to play
 
