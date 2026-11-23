@@ -36,11 +36,11 @@ Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Vers
 
 ### TMNT III: Radical Rescue
 
-<img src="screenshots/radical-rescue/1-michelangelo.png" alt="TMNT III: Radical Rescue DX — Michelangelo" width="160">
-<img src="screenshots/radical-rescue/2-donatello.png" alt="TMNT III: Radical Rescue DX — Donatello" width="160">
-<img src="screenshots/radical-rescue/3-raphael.png" alt="TMNT III: Radical Rescue DX — Raphael" width="160">
-<img src="screenshots/radical-rescue/4-leonardo.png" alt="TMNT III: Radical Rescue DX — Leonardo" width="160">
-<img src="screenshots/radical-rescue/5-raphael.png" alt="TMNT III: Radical Rescue DX — Raphael" width="160">
+<img src="screenshots/radical-rescue/1-leonardo.jpg" alt="TMNT III: Radical Rescue DX — Leonardo" width="160">
+<img src="screenshots/radical-rescue/2-donatello.jpg" alt="TMNT III: Radical Rescue DX — Donatello" width="160">
+<img src="screenshots/radical-rescue/3-title-screen.jpg" alt="TMNT III: Radical Rescue DX — Title screen" width="160">
+<img src="screenshots/radical-rescue/4-raphael-vs-scale-tail.jpg" alt="TMNT III: Radical Rescue DX — Raphael vs. Scale Tail" width="160">
+<img src="screenshots/radical-rescue/5-michelangelo-vs-scratch.jpg" alt="TMNT III: Radical Rescue DX — Michelangelo vs. Scratch" width="160">
 
 ### Mighty Morphin Power Rangers
 
