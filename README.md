@@ -12,9 +12,9 @@ These colorization patches were made possible by AI.
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | v15 | [tmnt2dx_v15.ips](patches/tmnt2dx_v15.ips) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | v6 | [tmnt3dx_v6.ips](patches/tmnt3dx_v6.ips) |
 | Mighty Morphin Power Rangers | v5 | [mmprdx_v5.ips](patches/mmprdx_v5.ips) |
-| Street Fighter II | v12 | [sf2dx_v12.ips](patches/sf2dx_v12.ips) |
+| Street Fighter II | v13 | [sf2dx_v13.ips](patches/sf2dx_v13.ips) |
 
-Street Fighter II DX v12 targets the USA/Europe Rev 1 (SGB Enhanced) cartridge.
+Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Version 13 adds a DX badge to the title screen on Game Boy Color.
 
 ## Gameplay screenshots
 
