@@ -12,6 +12,9 @@ These colorization patches were made possible by AI.
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | v15 | [tmnt2dx_v15.ips](patches/tmnt2dx_v15.ips) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | v6 | [tmnt3dx_v6.ips](patches/tmnt3dx_v6.ips) |
 | Mighty Morphin Power Rangers | v5 | [mmprdx_v5.ips](patches/mmprdx_v5.ips) |
+| Street Fighter II | v12 | [sf2dx_v12.ips](patches/sf2dx_v12.ips) |
+
+Street Fighter II DX v12 targets the USA/Europe Rev 1 (SGB Enhanced) cartridge.
 
 ## Gameplay screenshots
 
@@ -46,6 +49,14 @@ These colorization patches were made possible by AI.
 <img src="screenshots/mighty-morphin-power-rangers/3-cave.png" alt="Mighty Morphin Power Rangers DX — Cave" width="160">
 <img src="screenshots/mighty-morphin-power-rangers/4-megazord.png" alt="Mighty Morphin Power Rangers DX — Megazord" width="160">
 <img src="screenshots/mighty-morphin-power-rangers/5-goldar-fight.png" alt="Mighty Morphin Power Rangers DX — Goldar Fight" width="160">
+
+### Street Fighter II
+
+<img src="screenshots/street-fighter-ii/1-ryu-rooftop.png" alt="Street Fighter II DX gameplay on Ryu’s rooftop" width="160">
+<img src="screenshots/street-fighter-ii/2-ken-harbor.png" alt="Street Fighter II DX gameplay on Ken’s harbor" width="160">
+<img src="screenshots/street-fighter-ii/3-zangief-factory.png" alt="Street Fighter II DX gameplay on Zangief’s factory" width="160">
+<img src="screenshots/street-fighter-ii/4-balrog-casino.png" alt="Street Fighter II DX gameplay on Balrog’s casino" width="160">
+<img src="screenshots/street-fighter-ii/5-m-bison-temple.png" alt="Street Fighter II DX gameplay on M. Bison’s temple" width="160">
 
 ## How to play
 
