@@ -11,7 +11,7 @@ These colorization patches were made possible by AI.
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | v30 | [tmntdx_v30.ips](patches/tmntdx_v30.ips) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | v16 | [tmnt2dx_v16.ips](patches/tmnt2dx_v16.ips) |
 | Teenage Mutant Ninja Turtles III: Radical Rescue | v11 | [tmnt3dx_v11.ips](patches/tmnt3dx_v11.ips) |
-| Mighty Morphin Power Rangers | v5 | [mmprdx_v5.ips](patches/mmprdx_v5.ips) |
+| Mighty Morphin Power Rangers | v6 | [mmprdx_v6.ips](patches/mmprdx_v6.ips) |
 | Street Fighter II | v13 | [sf2dx_v13.ips](patches/sf2dx_v13.ips) |
 
 Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Version 13 adds a DX badge to the title screen on Game Boy Color.
@@ -46,11 +46,11 @@ The experimental Pocket test patch changes how fighter and effects sprites are u
 
 ### Mighty Morphin Power Rangers
 
-<img src="screenshots/mighty-morphin-power-rangers/1-city.png" alt="Mighty Morphin Power Rangers DX — City" width="160">
-<img src="screenshots/mighty-morphin-power-rangers/2-forest.png" alt="Mighty Morphin Power Rangers DX — Forest" width="160">
-<img src="screenshots/mighty-morphin-power-rangers/3-cave.png" alt="Mighty Morphin Power Rangers DX — Cave" width="160">
-<img src="screenshots/mighty-morphin-power-rangers/4-megazord.png" alt="Mighty Morphin Power Rangers DX — Megazord" width="160">
-<img src="screenshots/mighty-morphin-power-rangers/5-goldar-fight.png" alt="Mighty Morphin Power Rangers DX — Goldar Fight" width="160">
+<img src="screenshots/mighty-morphin-power-rangers/1-title-screen.png" alt="Mighty Morphin Power Rangers DX — Title screen" width="160">
+<img src="screenshots/mighty-morphin-power-rangers/2-megazord-vs-squatt.png" alt="Mighty Morphin Power Rangers DX — Megazord vs. Squatt" width="160">
+<img src="screenshots/mighty-morphin-power-rangers/3-level-4-cave.png" alt="Mighty Morphin Power Rangers DX — Level 4, Cave" width="160">
+<img src="screenshots/mighty-morphin-power-rangers/4-level-5-ritas-palace.png" alt="Mighty Morphin Power Rangers DX — Level 5, Rita’s palace" width="160">
+<img src="screenshots/mighty-morphin-power-rangers/5-megazord-vs-rita.png" alt="Mighty Morphin Power Rangers DX — Megazord vs. Rita on the moon" width="160">
 
 ### Street Fighter II
 
