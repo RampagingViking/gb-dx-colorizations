@@ -10,7 +10,7 @@ These colorization patches were made possible by AI.
 | --- | --- | --- |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | v30 | [tmntdx_v30.ips](patches/tmntdx_v30.ips) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | v16 | [tmnt2dx_v16.ips](patches/tmnt2dx_v16.ips) |
-| Teenage Mutant Ninja Turtles III: Radical Rescue | v11 | [tmnt3dx_v11.ips](patches/tmnt3dx_v11.ips) |
+| Teenage Mutant Ninja Turtles III: Radical Rescue | v12 | [tmnt3dx_v12.ips](patches/tmnt3dx_v12.ips) |
 | Mighty Morphin Power Rangers | v6 | [mmprdx_v6.ips](patches/mmprdx_v6.ips) |
 | Street Fighter II | v13 | [sf2dx_v13.ips](patches/sf2dx_v13.ips) |
 
