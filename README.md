@@ -16,8 +16,6 @@ These colorization patches were made possible by AI.
 
 Street Fighter II DX targets the USA/Europe Rev 1 (SGB Enhanced) cartridge. Version 13 adds a DX badge to the title screen on Game Boy Color.
 
-The experimental Pocket test patch changes how fighter and effects sprites are uploaded. It passed SameBoy tests and is ready for openFPGA testing. Apply it to a clean USA/Europe Rev 1 (SGB Enhanced) ROM and start a fresh session. [Download the Pocket test IPS](patches/sf2dx_v13_pocket_test.ips)
-
 ## Gameplay screenshots
 
 ### TMNT: Fall of the Foot Clan
